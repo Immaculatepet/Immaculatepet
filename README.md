@@ -1,10 +1,14 @@
 ### 👋 Hi there, I'm Oluwasegun!  
 I'm a passionate developer focused on **web development**, **AI**, and **open-source contributions**.
+
+---
+
+# ![My Profile Picture](https://i0.wp.com/idsc.miami.edu/wp-content/uploads/2020/10/Python-image-with-logo-940x530-1.jpg?w=940&ssl=1)  
+## Welcome to My GitHub Profile!
 <!--
 **Immaculatepet/Immaculatepet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# ![My Profile Picture](https://yourimageurl.com)  
-## Welcome to My GitHub Profile!
+
 
 ---
 
