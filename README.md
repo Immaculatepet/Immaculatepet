@@ -10,9 +10,9 @@ I'm passionate about technology and innovation, and I am focused on **web develo
 ---
 
 ### **📂 Projects I've Completed**  
-- **[Project Name 1]**: A [brief description of the project, e.g., "web-based application for task management"].  
-- **[Project Name 2]**: A [brief description, e.g., "data analysis project using Python and Power BI to derive actionable insights"].  
-- **[Project Name 3]**: A [brief description, e.g., "custom API for managing user authentication in a secure environment"].  
+- **[Loan Data Prosper Exploration]**: A [" Using the borrower features for predicting the highest rate of return"].  
+- **[Mapping and Sentiment Analysis of Geospatial Data]**: A [" Using GeoPandas to plot a set of choropleth maps representing the world renewable electricity output"].  
+- **[Geospatial Sentiment Analysis using Social Media Data]**: A ["geospatial sentiment analysis using TextBlob. A data consisting of tweets relevant to the 2021 COP 26"].  
 
 
 ---
