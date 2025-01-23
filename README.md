@@ -40,7 +40,6 @@ I'm currently diving into advanced **Cybersecurity** concepts, including:
 - 🎥 I love watching **Premiership league**
 - 📚 Currently reading **Atomic Habits**
  
-
 ---
 
 ## 🤝 Let's Connect
@@ -100,11 +99,6 @@ I'm currently diving into advanced **Cybersecurity** concepts, including:
 
 ---
 
-## 📄 Resume
-
-[Download My Resume](https://yourresumelink.com)
-
----
 -->
 
 > "Don’t comment bad code – rewrite it." – Brian W. Kernighan
