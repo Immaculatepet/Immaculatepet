@@ -43,16 +43,12 @@ I'm currently diving into advanced **Cybersecurity** concepts, including:
 
 ---
 
-### **🤝 Connect With Me**  
-- 🔗 **LinkedIn**:(https://www.linkedin.com/in/immanuelly/) 
-- 📫 **Contact**: [haryormhide@gmail.com]  
-
-
 ## 🤝 Let's Connect
 
-- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/immanuelly/)
+- 🐦 [X](https://x.com/ImmaculatePet?t=UXeOwLGc0IDt-StTFJDztw&s=09)
 - 💼 [Portfolio](https://yourportfolio.com)
+- 📫 [Contact](haryormhide@gmail.com) 
 
 ## 📄 Resume
 
