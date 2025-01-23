@@ -9,10 +9,17 @@ I'm passionate about technology and innovation, and I am focused on **web develo
 
 ---
 
-### **📂 Projects I've Completed**  
-- **[Loan Data Prosper Exploration]**: A [" Using the borrower features for predicting the highest rate of return"].  
-- **[Mapping and Sentiment Analysis of Geospatial Data]**: A [" Using GeoPandas to plot a set of choropleth maps representing the world renewable electricity output"].  
-- **[Geospatial Sentiment Analysis using Social Media Data]**: A ["geospatial sentiment analysis using TextBlob. A data consisting of tweets relevant to the 2021 COP 26"].  
+## 📂 Projects I've Completed
+
+- **[Loan Data Prosper Exploration](#)**  
+  *Analyzed borrower features to predict the highest rate of return.*
+
+- **[Mapping and Sentiment Analysis of Geospatial Data](#)**  
+  *Plotted choropleth maps with GeoPandas to represent global renewable electricity output.*
+
+- **[Geospatial Sentiment Analysis using Social Media Data](#)**  
+  *Conducted geospatial sentiment analysis using TextBlob on tweets related to the 2021 COP26.*
+  
 
 
 ---
