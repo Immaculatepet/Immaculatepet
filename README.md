@@ -47,7 +47,8 @@ I'm currently diving into advanced **Cybersecurity** concepts, including:
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/immanuelly/)
 - 🐦 [X](https://x.com/ImmaculatePet?t=UXeOwLGc0IDt-StTFJDztw&s=09)
-- 💼 [Portfolio](https://yourportfolio.com)
+- 💼 [Portfolio](https://www.hyperiondev.com/portfolio/OE24090016218/)
+- 📂 [Github](https://github.com/Immaculatepet)
 - 📫 [Contact](haryormhide@gmail.com) 
 
 ## 📄 Resume
