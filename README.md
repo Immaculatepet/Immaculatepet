@@ -1,10 +1,64 @@
-## Welcome to My GitHub Profile!
+## **Welcome to My GitHub Profile!**
 ### 👋 Hi there, I'm Oluwasegun!  
-I'm a passionate developer focused on **web development**, **AI**, and **open-source contributions**.
+I'm passionate about technology and innovation, and I am focused on **web development**, **AI**, and **open-source contributions**.
+
 
 ---
 
 #### ![My Profile Picture](https://i0.wp.com/idsc.miami.edu/wp-content/uploads/2020/10/Python-image-with-logo-940x530-1.jpg?w=940&ssl=1)  
+
+---
+
+### **📂 Projects I've Completed**  
+- **[Project Name 1]**: A [brief description of the project, e.g., "web-based application for task management"].  
+- **[Project Name 2]**: A [brief description, e.g., "data analysis project using Python and Power BI to derive actionable insights"].  
+- **[Project Name 3]**: A [brief description, e.g., "custom API for managing user authentication in a secure environment"].  
+
+
+---
+
+### **💻 Skills & Technologies**  
+- **Programming Languages**: Python, JavaScript, HTML/CSS  
+- **Frameworks**: Django, Flask, React, Scikit-learn, Node.js, TensorFlow 
+- **Tools**: Microsoft 365, Tableau, Power BI  
+- **Other**: Git, GitHub, REST APIs, Docker, VSCode, AWS
+
+---
+
+### **📚 What I'm Currently Learning**  
+I'm currently diving into advanced **Cybersecurity** concepts, including:  
+- Penetration Testing  
+- Risk Mitigation Techniques  
+- Secure Application Development  
+
+---
+
+### **🎉 Fun Facts About Me**  
+- 🌱 I enjoy exploring new technology trends and experimenting with different tools.  
+- 🔭 I'm passionate about cybersecurity and data science and love blending the two to create secure, insightful solutions. 
+- 🎮 My favorite game is **Puzzle**
+- 🎥 I love watching **Premiership league**
+- 📚 Currently reading **Atomic Habits**
+ 
+
+---
+
+### **🤝 Connect With Me**  
+- 🔗 **LinkedIn**:(https://www.linkedin.com/in/immanuelly/) 
+- 📫 **Contact**: [haryormhide@gmail.com]  
+
+
+## 🤝 Let's Connect
+
+- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 🐦 [Twitter](https://twitter.com/yourhandle)
+- 💼 [Portfolio](https://yourportfolio.com)
+
+## 📄 Resume
+
+[Download My Resume](https://yourresumelink.com)
+
+---
 
 <!--
 **Immaculatepet/Immaculatepet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,8 +67,8 @@ I'm a passionate developer focused on **web development**, **AI**, and **open-so
 
 ## 🚀 About Me
 - 🔭 I’m currently working on **[Your Current Project]**  
-- 🌱 I’m currently learning **[Skill You’re Learning]**  
-- 💬 Ask me about **[Your Expertise]**  
+- 🌱 I’m currently learning **Cybersecurity**  
+- 💬 Ask me about **M365 Security and Cloud Administration, Data Science and Cybersecurity**  
 - 📫 Reach me at **haryormhide@gmail.com**  
 - ⚡ Fun fact: **Everything can be coded, although code is not everything**
 - 👯 I’m looking to collaborate on ...
@@ -36,44 +90,6 @@ I'm a passionate developer focused on **web development**, **AI**, and **open-so
 > A brief description of your project. What problem does it solve?  
 [Explore Project Two](https://github.com/yourusername/projecttwo)
 
----
-
-## 📌 Skills & Technologies
-
-- **Programming Languages:** Python, JavaScript, C++
-- **Frameworks & Libraries:** React, Node.js, TensorFlow
-- **Tools:** Git, Docker, VSCode, AWS
-
----
-
-## 🤝 Let's Connect
-
-- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- 💼 [Portfolio](https://yourportfolio.com)
-
----
-
-## 👾 Open Source Contributions
-
-I believe in giving back to the community. Here are some open-source projects I've contributed to:
-
-- [Project Name](https://github.com/username/project)  
-- [Another Project](https://github.com/username/anotherproject)
-
----
-
-## 🎉 Fun Stuff
-
-- 🎮 My favorite game is **Puzzle**
-- 🎥 I love watching **Premiership league**
-- 📚 Currently reading **Atomic Habits**
-
----
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
 ---
 
