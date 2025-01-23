@@ -61,7 +61,7 @@ I'm currently diving into advanced **Cybersecurity** concepts, including:
 
 ## 📄 Resume
 
-[Download My Resume](https://yourresumelink.com)
+[Download My Resume](https://github.com/Immaculatepet/My-Resume/blob/b30e7260e875cbe2a71bb8b2729aaba606dda9dd/Ayomide%20Data%20Analyst%20Resume.pdf)
 
 ---
 
