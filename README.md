@@ -6,6 +6,8 @@ I'm passionate about technology and innovation, and I am focused on **web develo
 ---
 
 #### ![My Profile Picture](https://i0.wp.com/idsc.miami.edu/wp-content/uploads/2020/10/Python-image-with-logo-940x530-1.jpg?w=940&ssl=1)  
+<img src="https://i0.wp.com/idsc.miami.edu/wp-content/uploads/2020/10/Python-image-with-logo-940x530-1.jpg?w=940&ssl=1" alt="My Profile Picture" width="400">
+
 
 ---
 
